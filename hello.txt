@@ -1,0 +1,1 @@
+May be you will get some conflict. resolve the conflict so that only local changes of removing the home section should go to the remote
